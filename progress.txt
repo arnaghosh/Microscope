@@ -1,0 +1,5 @@
+Progress Report
+
+19/5/15 -> 	Video recorded using stepper motor
+			Best focused frame from 5 consecutive frame selected
+			Stitching done using opencv stitching library - results observed and todo updated

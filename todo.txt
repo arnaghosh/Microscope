@@ -1,0 +1,6 @@
+TO DO: -
+19/5/15 -> Look at deblurring stitched images 
+			Try stitching better
+			Remove Motion blur
+			
+			
