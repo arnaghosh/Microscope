@@ -3,3 +3,11 @@ Progress Report
 19/5/15 -> 	Video recorded using stepper motor
 			Best focused frame from 5 consecutive frame selected
 			Stitching done using opencv stitching library - results observed and todo updated
+			
+20/5/15 -> 	Worked on iphone as camera, saw high fps camera.
+			Tried working on motion blur.
+			
+21/5/15 --> Worked on motion blur. Got the code working in prev night and tweaked the parameters in day	to get good results but not very good :/
+			Worked on optics to get image to cover entire iphone FOV -- success with 40X objective lens of microscope.
+			Looking up further options of the project and discussion on its use and prototype development.
+				

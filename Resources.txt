@@ -1,2 +1,4 @@
 pyramid-based Richardson-Lucy algorithm --> http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6900829&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6900829
 Scale Adaptive Blind Deblurring --> http://papers.nips.cc/paper/5566-scale-adaptive-blind-deblurring.pdf
+Motion Blur basic algo --> http://en.wikipedia.org/wiki/Richardson%E2%80%93Lucy_deconvolution
+Motion Blur removal kernel selection--> http://www.wisdom.weizmann.ac.il/~levina/papers/MotInv-s-LevinEtAl-SIGGRAPH08.pdf
